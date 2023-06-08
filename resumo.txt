@@ -1,0 +1,35 @@
+Os operadores em Python podem ser classificados em vários tipos. Alguns dos principais tipos de operadores em Python são:
+
+- Operadores aritméticos: são usados para realizar operações matemáticas. Alguns exemplos de operadores aritméticos são + (adição), - (subtração), * (multiplicação) e / (divisão).
+- Operadores de atribuição: são usados para atribuir valores a variáveis. O operador de atribuição mais comum é o sinal de igual (=).
+- Operadores de comparação: são usados para comparar valores. Alguns exemplos de operadores de comparação são == (igual a), != (diferente de), > (maior que) e < (menor que).
+- Operadores lógicos: são usados para combinar expressões lógicas. Alguns exemplos de operadores lógicos são and (e), or (ou) e not (não).
+- Operadores de identidade: são usados para comparar objetos. Os dois principais operadores de identidade em Python são is e is not.
+- Operadores de associação: são usados para definir estruturas de dados. O único operador de associação em Python é o sinal de igual (=).
+
+print(): é usado para imprimir uma mensagem na tela.
+input(): é usado para receber entrada do usuário.
+len(): é usado para obter o comprimento de uma sequência (como uma string ou lista).
+range(): é usado para gerar uma sequência de números.
+type(): é usado para obter o tipo de um objeto.
+str(): é usado para converter um objeto em uma string
+
+    Uma lista em Python é uma coleção ordenada de elementos que podem ser de diferentes tipos de dados. Os elementos em uma lista são separados por vírgulas e são colocados entre colchetes. Por exemplo:
+
+lista = [1, 2, 3, 4, 5]
+Copiar
+A lista acima contém cinco elementos inteiros. Você pode acessar os elementos de uma lista usando um índice. O primeiro elemento de uma lista tem um índice de 0. Por exemplo:
+
+lista = [1, 2, 3, 4, 5]
+primeiro_elemento = lista[0]
+Copiar
+O código acima define uma lista com cinco elementos e armazena o primeiro elemento da lista na variável primeiro_elemento.
+
+    A função append() é usada para adicionar um elemento ao final de uma lista em Python. Por exemplo:
+
+lista = [1, 2, 3]
+lista.append(4)
+Copiar
+O código acima define uma lista com três elementos e adiciona o número 4 ao final da lista usando a função append().
+
+
