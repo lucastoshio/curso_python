@@ -1,0 +1,36 @@
+
+Senha: & C:/Users/lucas/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/lucas/OneDrive/Área de Trabalho/curso-python/curso_python/cadastrar_alterar_deletar.py"
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: ASSASas7514
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: 753159ASF
+
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: ASSASas7514
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: 753159ASF
+['assas', '753159qqQ']
+['DEDED', '753159Adf']
+['svvv', '753159Zwe']
+
+Senha: & C:/Users/lucas/AppData/Local/Programs/Python/Python311/python.exe "c:/Users/lucas/OneDrive/Área de Trabalho/curso-python/curso_python/cadastrar_alterar_deletar.py"
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: ASSASas7514
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: 753159ASF
+
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: ASSASas7514
+Senha: 753159qqQ
+Senha: 753159asD
+Senha: 753159ASF
+['assas', '753159qqQ']
+['svvv', '753159Zwe']
+['assas', '753159aaaaA']
