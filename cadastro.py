@@ -1,3 +1,7 @@
+# Autor: Lucas Toshio
+# Data 07/06/23
+
+
 def cadastrar_usuario():
     with open("usuarios.txt", "a") as f:
         while True:
