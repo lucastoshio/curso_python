@@ -1,3 +1,5 @@
+# Autor: Lucas Toshio
+# Data 07/06/23
 #  Neste exemplo, o programa irá imprimir se o número
 #  é par ou ímpar. Quando o número atinge 5, ele é
 #  ignorado e o loop continua. Quando o número atinge 8,
