@@ -1,3 +1,7 @@
+# Autor: Lucas Toshio
+# Data 05/06/23
+
+
 numeros = []
 
 for i in range(5):
