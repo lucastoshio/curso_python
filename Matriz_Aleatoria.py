@@ -1,3 +1,6 @@
+# Autor: Lucas Toshio
+# Data 07/06/23
+
 import random
 
 while True:
