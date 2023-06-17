@@ -1,3 +1,5 @@
+# Autor: Lucas Toshio
+# Data 07/06/23
 # Criando um dicionario chamado Contato
 contato = {"@camila": "camila", "@amanda": "amanda", "@fernanda": "fernanda"}
 
