@@ -1,3 +1,5 @@
+# Autor: Lucas Toshio
+# Data 07/06/23
 idade_alunos = []
 
 idade_alunos.append(15)
