@@ -1,3 +1,6 @@
+# Autor: Lucas Toshio
+# Data 07/06/23
+
 print(" diagnostico Covid ")
 Num_Pacientes = int(input(" quantros pacientes existem ? "))
 infectados = 0
