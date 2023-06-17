@@ -1,3 +1,6 @@
+# Autor: Lucas Toshio
+# Data 09/06/23
+
 def soma(a, b):
     """
     Função que recebe dois números e retorna a soma entre eles.
