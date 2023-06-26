@@ -1,5 +1,5 @@
 # Autor: Lucas Toshio
-# Data 07/06/23
+# Data 07/06/23.
 
 def cadastrar_usuario(username, password):
     with open("usuarios.txt", "a") as f:
