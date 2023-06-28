@@ -1,5 +1,5 @@
 # Autor: Lucas Toshio
-# Data 09/06/23
+# Data 09/06/23.
 
 def soma(a, b):
     """
